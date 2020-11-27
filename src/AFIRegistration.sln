@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AFIRegistration.Api", "AFIRegistration.Api\AFIRegistration.Api.csproj", "{71A8EB4A-179A-495B-B676-9E7394EEC375}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{7470FC2F-0079-4A5C-BF23-DD1EDBDD171F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37D6B53D-2A12-4ECD-83A7-BE01EAE5CBB8}"
+	ProjectSection(SolutionItems) = preProject
+		..\ReadMe.md = ..\ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A8EB4A-179A-495B-B676-9E7394EEC375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A8EB4A-179A-495B-B676-9E7394EEC375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A8EB4A-179A-495B-B676-9E7394EEC375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A8EB4A-179A-495B-B676-9E7394EEC375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA2D226-B754-47BC-B4B8-13D46C150940}
+	EndGlobalSection
+EndGlobal
